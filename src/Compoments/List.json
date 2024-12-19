@@ -1,0 +1,77 @@
+[
+
+{
+    "id":1,
+    "name":"All Good People Here",
+    "author":"Ashley Flowers",
+    "price":0,
+    
+    "catagery":"free",
+    "title":"You can’t ever know for sure what happens behind closed doors",
+
+    "image":"https://m.media-amazon.com/images/I/8156RC7K6wL._AC_UL320_.jpg"
+},
+{
+"id":2,
+    "name":"Local Woman Missing",
+    "author":"Marry Kubica",
+    "price":200,
+    
+    "catagery":"Paid",
+    "title":"Dark and twisty, with white-knuckle tension and jaw-dropping surprises—Riley Sager, New York Times bestselling author of Home Before Dark",
+
+    "image":"https://m.media-amazon.com/images/I/61ZD2PVuuqL._SY425_.jpg"
+
+},
+{
+    "id":3,
+        "name":"Then She Was Gone",
+        "author":"Lisa Jewell",
+        "price":500,
+        
+        "catagery":"Paid",
+        "title":"From the New York Times bestselling author of Invisible Girl and None of This Is True comes a “riveting” (PopSugar) and “acutely observed family drama” (People) that delves into the lingering aftermath of a young girl’s disappearance.",
+    
+        "image":"https://m.media-amazon.com/images/I/910nluQF9+L._SY425_.jpg"
+    
+    },
+    {
+        "id":4,
+            "name":"The Housemaid",
+            "author":"Freida",
+            "price":10000,
+            
+            "catagery":"free",
+            "title":"Every day I clean the Winchesters’ beautiful house top to bottom. ",
+        
+            "image":"https://m.media-amazon.com/images/I/51sx4eLa6NL._SY445_SX342_.jpg"
+        
+        },
+        {
+            "id":5,
+            "name":"One Day in December",
+            "author":"Ashley Flowers",
+            "price":3000,
+            
+            "catagery":"free",
+            "title":"Two people. Ten chances. One unforgettable love story",
+
+        
+            "image":"https://m.media-amazon.com/images/I/41VL8lsdXFL._SY445_SX342_.jpg"
+        },
+        {
+            "id":6,
+            "name":"The Seven Year Slip",
+            "author":"Ashley Flowers",
+            "price":200,
+            
+            "catagery":"free",
+            "title":"new novel from the New York Times bestselling author of The Dead Romantics.",
+        
+            "image":"https://m.media-amazon.com/images/I/81N6pjRZLbL._SY425_.jpg"
+        }
+
+
+
+
+]
